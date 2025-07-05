@@ -96,3 +96,9 @@ Use DistilBERT or RoBERTa for faster training
 Deploy as a web app with Flask or Streamlit
 
 Real-time tweet classification API
+Accuracy:
+![Screenshot 2025-07-05 152828](https://github.com/user-attachments/assets/923e5310-41cc-4b8d-80b0-3371698eea03)
+Output:
+![Screenshot 2025-07-05 152858](https://github.com/user-attachments/assets/7e4bcc31-caed-4247-b73a-bc58aedc06f1)
+
+
